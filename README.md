@@ -9,7 +9,7 @@
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-[Ver Demo en Vivo 🚀](https://tu-usuario.github.io/tu-repositorio/)
+[Sitio web 🚀](https://dannaalbertos.github.io/Actividad-19-Portafolio-de-Evidencias-de-Proyectos-HTML-CSS-JS/actividades/actividad02/index.html/)
 
 </div>
 
